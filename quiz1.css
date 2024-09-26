@@ -1,0 +1,59 @@
+/*color palette
+c9cba3
+ffe1a8
+e26d5c
+723d46
+472d30
+*/
+/* section {
+    background: url('1.jpeg') no-repeat center center/cover;
+} */
+body{
+    /* background: #ffffff; */
+    /* background: url('3.jpg') no-repeat center center;
+    background-size: cover; */
+    /* padding-top: 56px; */
+}
+#Surabaya {
+    padding: px;
+    font-size: 1.5rem;
+    /* font-weight: 100; */
+    color: #ffffff;
+}
+
+#mainNav{
+    background: #284b63;
+    font-size: 1.2rem;
+    font-family: font-family: 'Montserrat', sans-serif;;
+}
+
+#mainNav .nav-link{
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+#mainNav .nav-link:hover{
+    color: #d9d9d9;
+    /* font-size: 1.5rem; */
+}
+
+
+.card-img-top {
+    width: 100%;  
+    height: 200px; 
+    object-fit: cover;
+
+}
+
+#Surabaya{
+    font-family:'Montserrat', sans-serif;
+}
+
+.trad{
+    font-family:'Montserrat', sans-serif;
+    color: #472d30;
+}
+
+.card-title{
+    font-family:'Montserrat', sans-serif;
+    color: #472d30;
+}
